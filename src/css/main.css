@@ -2020,9 +2020,9 @@ textarea:focus::placeholder {
   padding-bottom: 0;
 }
 
-.bostami-page-title-wrap p {
+/* .bostami-page-title-wrap p {
   max-width: 632px;
-}
+} */
 
 .page-title {
   position: relative;
