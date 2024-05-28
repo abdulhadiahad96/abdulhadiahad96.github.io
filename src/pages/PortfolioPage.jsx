@@ -2,7 +2,7 @@ function PortfolioPage () {
   const projects = [
     {
       client: 'PT BCA Finance',
-      name: 'KKBSK (Kredit Keren Banget SalesKit)'
+      name: 'KKBSK'
     },
     {
       client: 'PT Jari Solusi International',
